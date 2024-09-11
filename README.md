@@ -6,8 +6,10 @@ Experienced in conducting end-to-end research, creating novel measurement tools,
 ### Education
 **PhD, Psychology** <br/>
 SWPS University in Wroclaw (October 2022) <br/> <br/>
-**Post-graduate studies, Data Science and Machine Learning**, University of Economics in Katowice (December 2023) <br/>
-**MS, Psychology**, SWPS University in Wroclaw (June 2016) <br/>
+**Post-graduate studies, Data Science and Machine Learning** <br/> 
+University of Economics in Katowice (December 2023) <br/>
+**MS, Psychology** <br/>
+SWPS University in Wroclaw (June 2016) <br/>
 
 ### Post-graduate DS ML
 yep
