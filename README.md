@@ -38,7 +38,7 @@ methodology to preparing research papers. <b/>
 
 # Skills
 
-![](https://github.com/pawel-tomczak/pawel-tomczak.github.io/blob/main/assets/skills.jpg)
+![skills](https://github.com/pawel-tomczak/pawel-tomczak.github.io/blob/main/assets/skills.jpg)
 
 
 
