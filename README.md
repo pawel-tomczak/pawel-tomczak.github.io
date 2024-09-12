@@ -17,14 +17,9 @@ SWPS University in Wroclaw (June 2016) <br/>
 #### **Data analyst / data scientist consultant @ FeverBee LLC (2021 - present)**  <br/>
 In this role, I've worked with the biggest companies in the world (e.g. Google, Meta, Intel, and many more).
 My responsibilities included:  <br/>
-- Carrying out the whole data analysis process: gathering questions and
-requirements, data wrangling, analysis, visualization, and presenting results to
-the client.
-- Identifying and assessing the community business impact by testing
-relationships between the community data, website traffic, and business
-metrics.
-- Designing new methodologies for accurate user segmentation, retention
-measurement, and identifying high performing users.
+- Carrying out the whole data analysis process: gathering questions and requirements, data wrangling, analysis, visualization, and presenting results to the client.
+- Identifying and assessing the community business impact by testing relationships between the community data, website traffic, and business metrics.
+- Designing new methodologies for accurate user segmentation, retention measurement, and identifying high performing users.
 
 #### **Data and research team lead @ GameTime Project LLC (2018 - 2021)** <br/>
 Team lead responsible for carrying out the research and data analysis at GameTime Project, an HR-tech startup. I played a crucial role in developing ReQiu, a digital tool for personality assessment in the form of a computer game. <b/>
@@ -38,5 +33,5 @@ Key responsibilities:
 Research lead in various projects that lead to 6 scientific publications as the first author. I was responsible for the whole research cycle, from
 methodology to preparing research papers. <b/>
 - Lead researcher in various projects that lead to 6 scientific publications.
-- Lecturer teaching courses related to human behavior and conducting scientificexperiments.
+- Lecturer teaching courses related to human behavior and conducting scientific experiments.
 - Researcher at 3 funded projects (3 publications).
