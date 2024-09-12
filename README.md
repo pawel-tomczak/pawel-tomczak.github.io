@@ -1,10 +1,9 @@
 # About me
-PhD in experimental psychology, data analyst with a focus on experimentation, product analytics, and machine learning. <br/>
-Experienced in conducting end-to-end research, creating novel measurement tools, and implementing innovative measurement frameworks. <br/>
+PhD in Experimental Psychology with a focus on experimentation, product analytics, and machine learning. Experienced in end-to-end research, developing novel measurement tools, and implementing innovative frameworks. <b/>
 
-During my career, I've carried out many different tasks and projects: conducting my own reaearch and leading research teams, lecturing at a university, creating a digital psychometric tool in a form of a computer game, helping companies as a consultant and data expert, working as a data analyst / data scientist ... the list could probably go on. <br/>
+Throughout my career, I’ve led and conducted research, developed a digital psychometric tool in the form of a game, consulted for companies as a data expert, and worked extensively as a data analyst and data scientist. <b/>
 
-In short, I really enjoy solving problems with data, and my vast experience allows me to do that in many different fields. 
+In short, I enjoy solving problems with data, leveraging my broad experience across multiple fields.
 
 ### Education
 **PhD, Psychology** <br/>
