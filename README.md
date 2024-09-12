@@ -14,7 +14,7 @@ University of Economics in Katowice (December 2023) <br/> <br/>
 SWPS University in Wroclaw (June 2016) <br/>
 
 ### Work experience
-Data analyst / data scientist consultant @ FeverBee LLC (2021 - present)  <br/>
+#### Data analyst / data scientist consultant @ FeverBee LLC (2021 - present)  <br/>
 In this role, I've worked with the biggest companies in the world (e.g. Intel, Meta, Google, and many more).
 My responsibilities included:  <br/>
 - Carrying out the whole data analysis process: gathering questions and
