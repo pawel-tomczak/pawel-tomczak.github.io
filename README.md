@@ -5,6 +5,10 @@ Throughout my career, I’ve led and conducted research, developed a digital psy
 
 In short, I enjoy solving problems with data, leveraging my broad experience across multiple fields.
 
+# Skills
+
+![](https://github.com/pawel-tomczak/pawel-tomczak.github.io/blob/main/assets/skills.jpg)
+
 ### Education
 **PhD, Psychology** <br/>
 SWPS University in Wroclaw (October 2022) <br/> <br/>
