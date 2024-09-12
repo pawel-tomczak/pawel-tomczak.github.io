@@ -29,7 +29,7 @@ Key responsibilities:
 - Designing a measurement framework that focused on measuring behaviour, UX, and psychometric testing.
 - Delivering the data and expert knowledge base for the ML models that were implemented in the tool.
 
-#### Researcher and lecturer @ SWPS University in Wroclaw (2017 - 2021)** <b/>
+#### **Researcher and lecturer @ SWPS University in Wroclaw (2017 - 2021)** <b/>
 Research lead in various projects that lead to 6 scientific publications as the first author. I was responsible for the whole research cycle, from
 methodology to preparing research papers. <b/>
 - Lead researcher in various projects that lead to 6 scientific publications.
