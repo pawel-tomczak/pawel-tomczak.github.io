@@ -5,7 +5,10 @@ Throughout my career, I’ve led and conducted research, developed a digital psy
 
 In short, I enjoy solving problems with data, leveraging my broad experience across multiple fields.
 
-### Education
+### 💻 Key skills
+![skills](/assets/skills.jpg)
+
+### 📚 Education
 **PhD, Psychology** <br/>
 SWPS University in Wroclaw (October 2022) <br/> <br/>
 **Post-graduate studies, Data Science and Machine Learning** <br/> 
@@ -13,7 +16,7 @@ University of Economics in Katowice (December 2023) <br/> <br/>
 **MS, Psychology** <br/>
 SWPS University in Wroclaw (June 2016) <br/>
 
-### Work experience
+### 💼 Work experience
 #### **Data analyst / data scientist consultant @ FeverBee LLC (2021 - present)**  <br/>
 In this role, I've worked with the biggest companies in the world (e.g. Google, Meta, Intel, and many more).
 My responsibilities included:  <br/>
@@ -36,9 +39,6 @@ methodology to preparing research papers. <b/>
 - Lecturer teaching courses related to human behavior and conducting scientific experiments.
 - Researcher at 3 funded projects (3 publications).
 
-# Skills
-
-![skills](/assets/skills.jpg)
 
 
 
