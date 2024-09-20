@@ -23,6 +23,12 @@ Data analyst/scientist consultant responsible for the full cycle related to data
 - Led full data analysis processes, from requirements gathering to presenting results.
 - Designed methodologies for calculating ROI and evaluate business impact, develop user segmentation, measure retention and performance.
 
+#### **Behavioural research and data consultant** @ VRealms LLC(Freelance, 2020-2021)
+As a consultant, I developed research studies and a behavior-based machine learning classification system for the project “VR Gameplay Adjustment System Based on Player Adaptation and Competence.”
+- Created a theoretical measurement framework for assessing behavior in virtual environments.
+- Designed VR-based behavioral studies to evaluate players' adaptation to virtual reality and gaming competencies.
+- Developed a classification algorithm to assess player performance in VR.
+
 #### **Data and research team lead @ GameTime Project LLC (2018 - 2021)** <br/>
 Team lead responsible for carrying out the research and data analysis at GameTime Project, an HR-tech startup. I played a crucial role in developing ReQiu, a digital tool for personality assessment in the form of a computer game. <b/>
 Key responsibilities:
@@ -37,4 +43,20 @@ methodology to preparing research papers. <b/>
 - Led research projects resulting in 6 publications as first author.
 - Taught courses on human behavior and scientific research methods.
 - Worked on 3 funded projects, leading to additional publications.
+
+#### **Marketing research intern** @ Bioscope LLC (September 2014)
+I have learned:
+- Marketing data analysis.
+- Interpretation of EEG, GSR and eye tracking data.
+- Using questionnaires in marketing research.
+
+### 🎓 Academic achievements
+- 9 publications, 6 as first author (Google Scholar)[https://scholar.google.com/citations?user=mo2t65kAAAAJ&hl=pl]
+- 3 international conferences with my own projects (EGPROC 2015 & 2016, IAREP 2018)
+- 4 years of experience as a lecturer
+- Lead researcher in 2 funded projects
+- Eye-tracking workshops
+
+
+
 
