@@ -23,7 +23,7 @@ Data analyst/scientist consultant responsible for the full cycle related to data
 - Led full data analysis processes, from requirements gathering to presenting results.
 - Designed methodologies for calculating ROI and evaluate business impact, develop user segmentation, measure retention and performance.
 
-#### **Behavioural research and data consultant** @ VRealms LLC(Freelance, 2020-2021)
+#### **Behavioural research and data consultant** @ VRealms LLC(Freelance, 2020 - 2021)
 As a consultant, I developed research studies and a behavior-based machine learning classification system for the project “VR Gameplay Adjustment System Based on Player Adaptation and Competence.”
 - Created a theoretical measurement framework for assessing behavior in virtual environments.
 - Designed VR-based behavioral studies to evaluate players' adaptation to virtual reality and gaming competencies.
