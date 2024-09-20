@@ -51,7 +51,7 @@ I have learned:
 - Using questionnaires in marketing research.
 
 ### 🎓 Academic achievements
-- 9 publications, 6 as first author (Google Scholar)[https://scholar.google.com/citations?user=mo2t65kAAAAJ&hl=pl]
+- 9 publications, 6 as first author [Google Scholar](https://scholar.google.com/citations?user=mo2t65kAAAAJ&hl)
 - 3 international conferences with my own projects (EGPROC 2015 & 2016, IAREP 2018)
 - 4 years of experience as a lecturer
 - Lead researcher in 2 funded projects
