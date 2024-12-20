@@ -6,7 +6,7 @@ Throughout my career, I’ve led and conducted research, developed a digital psy
 In short, I enjoy solving problems with data, leveraging my broad experience across multiple fields.
 
 ### 💻 Key skills
-![skills](/assets/skills.jpg)
+![skills](/assets/skills3.jpg)
 
 ### 📚 Education
 **PhD, Psychology** <br/>
